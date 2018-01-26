@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: BuddyPress Author Redirect to Profile
-Description: Disables author archives and redirect to BuddyPress profile instead.
+Description: Disables author archives and redirects to BuddyPress profile instead.
 Version: 1.0
 Author: Shay Seferstein <shay1383@gmail.com>
 Author URI: https://shay.seferstein.com
