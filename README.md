@@ -1,6 +1,7 @@
 BuddyPress Author Redirect to Profile
 
-Credit: Brajesh Singh 
+Credit: Brajesh Singh https://buddydev.com/
+
 Disables author archives and redirects to BuddyPress profile instead
 
 If you are familiar with functions.php I suggest to use the following code instead of using the plugin:
